@@ -9,7 +9,7 @@ export default function Footer() {
             <div className="container">
                 <div className="row">
                     <div className="col-md-3">
-                        <h4 className="footer-heading">ShopHere</h4>
+                        <h4 className="footer-heading">KartWiz</h4>
                         <div className="footer-underline"></div>
                         <p style={{textAlign:"justify"}}>
                         Welcome to our e-commerce platform, where convenience meets quality. Discover a seamless shopping experience with a wide range of products tailored to your needs. </p>
@@ -34,7 +34,7 @@ export default function Footer() {
                         <div className="footer-underline"></div>
                         <div className="mb-2">
                             <p>
-                                <i className="fa fa-map-marker"></i> Ayodhya Utter Pradesh 224001 , India
+                                <i className="fa fa-map-marker"></i> Lucknow Utter Pradesh 226010 , India
                             </p>
                         </div>
                         <div className="mb-2">
@@ -44,7 +44,7 @@ export default function Footer() {
                         </div>
                         <div className="mb-2">
                             <Link to = "#" className="text-white">
-                                <i className="fa fa-envelope"></i> shophere@gmail.com
+                                <i className="fa fa-envelope"></i> KartWiz@gmail.com
                             </Link>
                         </div>
                     </div>

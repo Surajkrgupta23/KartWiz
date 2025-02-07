@@ -59,7 +59,7 @@ export default function LoginCard() {
                                     <div className="card-body">
                                         <Link to="#" className="text-nowrap logo-img text-center  py-3 w-100">
                                             <img src={logo} width="60" height="60" alt="" />
-                                            <h4>ShopHere</h4>
+                                            <h4>KartWiz</h4>
                                         </Link>
                                         <h4 className="text-center">Login</h4>
 

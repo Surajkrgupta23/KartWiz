@@ -6,7 +6,7 @@ Welcome to KartWiz, your ultimate destination for a seamless online shopping exp
 
 
 
-![Suraj's Commit: afce8a8](https://github.com/Surajkrgupta23/KartWiz/commit/afce8a8e8ce17e75b0a8f0058ec49bb9a0ffa5f8)
+![KartWiz_ss1](https://github.com/Surajkrgupta23/KartWiz/blob/main/public/KartWiz_ss1.png)
 
 
 
